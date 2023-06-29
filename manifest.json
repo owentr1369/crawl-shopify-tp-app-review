@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Crawl Shopify App Review",
+    "description": "Vue 3 Crawl Shopify App Review Chrome Extension",
+    "version": "1.0.0",
+    "action": {
+        "default_popup": "index.html"
+    },
+    "icons": {
+        "16": "src/assets/icon.png",
+        "32": "src/assets/icon.png",
+        "48": "src/assets/icon.png",
+        "64": "src/assets/icon.png",
+        "128": "src/assets/icon.png"
+    }
+}
